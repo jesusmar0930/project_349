@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project_349/static/css/main.a56bd699.css",
+    "main.js": "/project_349/static/js/main.47023a6f.js",
+    "static/media/Spaceship.jpg": "/project_349/static/media/Spaceship.f0da6d5c08d5b3667fd1.jpg",
+    "static/media/djangoPythonLogo.png": "/project_349/static/media/djangoPythonLogo.1dd4a6731ff82c516038.png",
+    "index.html": "/project_349/index.html",
+    "main.a56bd699.css.map": "/project_349/static/css/main.a56bd699.css.map",
+    "main.47023a6f.js.map": "/project_349/static/js/main.47023a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a56bd699.css",
+    "static/js/main.47023a6f.js"
+  ]
+}
